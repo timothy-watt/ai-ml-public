@@ -13,7 +13,7 @@ Collection of random Jupyter Notebooks I have built or found useful that may not
 ### 🔹 `/core-machine-learning`
 Implementations of fundamental ML algorithms (Linear/Logistic Regression, Decision Trees) and applied mathematics (Linear Algebra, Calculus).
 
-### 🔹 `/infrastructure-and-mlops`
+### 🔹 `/infra-and-mlops`
 Notes, architectures, and scripts related to cloud infrastructure, GPU operations, and NVIDIA deployment pipelines.
 
 ### 🔹 `/deep-learning`
