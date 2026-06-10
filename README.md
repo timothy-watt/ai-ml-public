@@ -14,7 +14,7 @@ Collection of random Jupyter Notebooks I have built or found useful that may not
 Implementations of fundamental ML algorithms (Linear/Logistic Regression, Decision Trees) and applied mathematics (Linear Algebra, Calculus).
 
 ### 🔹 `/infrastructure-and-mlops`
-Notes, architectures, and scripts related to AWS cloud infrastructure, GPU operations, and NVIDIA deployment pipelines.
+Notes, architectures, and scripts related to cloud infrastructure, GPU operations, and NVIDIA deployment pipelines.
 
 ### 🔹 `/deep-learning`
 Projects involving neural network architectures, computer vision, Natural Language Processing (NLP), and GenAI experimentation. 
