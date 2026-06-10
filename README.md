@@ -2,7 +2,7 @@
 
 ## 📂 Repository Structure
 
-This repository is organized into targeted subdirectories corresponding to the phases above:
+This repository is organized into targeted subdirectories corresponding to specific focus areas:
 
 ### 🔹 [python-for-ai-ml ↗](https://github.com/timothy-watt/python-for-ai-ml) (External Standalone)
 A free, self-contained textbook for learning Python, data science, machine learning, and AI, from first principles to production. Every chapter runs in Google Colab with no local setup required. The entire book is built around a single real-world dataset: the Stack Overflow 2025 Developer Survey.
