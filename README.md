@@ -21,7 +21,7 @@ This repository is organized into targeted subdirectories corresponding to the p
 ### 🔹 [python-for-ai-ml ↗](https://github.com/timothy-watt/python-for-ai-ml) (External Standalone)
 A free, self-contained textbook for learning Python, data science, machine learning, and AI, from first principles to production. Every chapter runs in Google Colab with no local setup required. The entire book is built around a single real-world dataset: the Stack Overflow 2025 Developer Survey.
 
-### 🔹 `/random-notebooks
+### 🔹 `/random-notebooks`
 Collection of random Jupyter Notebooks I have built or found useful that may not neatly fit into another specific category below.
 
 ### 🔹 `/core-machine-learning`
