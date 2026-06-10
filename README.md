@@ -1,19 +1,5 @@
 # ai-ml-public
 
-## 🗺️ Learning Path Roadmap & Coursework
-
-My learning is structured systematically across several core pillars, backed by industry-standard coursework and practical implementations.
-
-| Phase | Focus Area & Coursework | Status | Repository / Directory |
-|---|---|---|---|
-| **01** | **Python & AI Foundations**<br>• Python for Everybody (UMich)<br>• AI Python for Beginners (DeepLearning.ai)<br>• AI for Everyone (DeepLearning.ai) | **Completed** | [python-for-ai-ml ↗](https://github.com/timothy-watt/python-for-ai-ml) |
-| **02** | **Mathematics & Core Machine Learning**<br>• Math for ML & Data Science Spec. (DeepLearning.ai)<br>• Machine Learning Spec. (DeepLearning.ai) | **Completed** | `/core-machine-learning` |
-| **03** | **Cloud, MLOps & Infrastructure**<br>• Cloud Practitioner Essentials (AWS)<br>• AI Infra & Ops Fundamentals (NVIDIA) | **Completed** | `/infrastructure-and-mlops` |
-| **04** | **Deep Learning & GenAI**<br>• AI Essentials (Google)<br>• GenAI for Everyone (DeepLearning.ai)<br>• Deep Learning Spec. (DeepLearning.ai) | **In Progress** | `/deep-learning` |
-| **05** | **AI Security & Red Teaming**<br>• Foundations of AI Security (AttackIQ)<br>• AI Red Teaming, Prompt Hacking & AI Security (LearnPrompting) | **In Progress** | `/ai-security` |
-
----
-
 ## 📂 Repository Structure
 
 This repository is organized into targeted subdirectories corresponding to the phases above:
